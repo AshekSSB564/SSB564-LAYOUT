@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    color: black;
+    background-color: greenyellow;
+    border: double;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
+.Banner{
+    color: black;
+    background-color: brown;
+    height: 400px;
+    text-align: center;
+    font-size: 50px;
+}
+.About{
+display: flex;
+}
+.Left{
+    width: 50%;
+    height: 300px;
+    background-color: aqua;
+    text-align: center;
+
+
+}
+.Right{
+    width: 50%;
+    height: 300px;
+    background-color: rgb(255, 0, 140);
+    text-align: center;
+
+}
+
+.Feature{
+    display: flex;
+    text-align: center;
+}
+.First{
+    color: black;
+    background-color: green;
+    width: 33.33%;
+    text-align: center;
+    height: 300px;
+}
+.Second{
+    color: black;
+    background-color:red;
+    width: 33.33%;
+    text-align: center;
+    height: 300px;
+}
+.Third{
+    color: black;
+    background-color: rgb(83, 128, 0);
+    width: 33.33%;
+    text-align: center;
+    height: 300px;
+}
+.Ad{
+display: flex;
+}
+.Left_AD{
+    color: black;
+    background-color: rgb(83, 128, 0);
+    width: 80%;
+    text-align: center;
+    height: 300px;
+}
+.Right_AD{
+    color: black;
+    background-color: rgb(128, 0, 64);
+    width: 20%;
+    text-align: center;
+    height: 300px;
+}
+.Promo{
+    display: flex;
+}
+.Left_Promo{
+    color: black;
+    background-color: green;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    border: double;
+}
+.Right_Promo{
+    color: black;
+    background-color: rgb(100, 128, 0);
+    width:80%;
+    height: 200px;
+    text-align: center;
+    border: double;
+}
+
+Footer{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
